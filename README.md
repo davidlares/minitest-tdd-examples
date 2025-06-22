@@ -1,4 +1,4 @@
-# DavidRubyTests
+## DavidRubyTests
 
 Ejemplos de Pruebas Unitarias y TDD en ejemplos sencillos con Ruby 2.6, MiniTest Gem y Factory Girl
 
@@ -29,10 +29,8 @@ Desarrollo basado en pruebas
 
   ruby test.rb
 
-## Creditos
-
- - [David E Lares](https://twitter.com/davidlares3)
+## Créditos
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
- - [MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
